@@ -1,1 +1,2 @@
-# Trafik-E-itimi
+# Trafik-Eğitimi Uygulaması
+Çocuklar için trafik eğitimi çalışması
